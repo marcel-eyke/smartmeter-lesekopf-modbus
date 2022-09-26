@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-03-27T16:37:13Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Smart meter reading head V220"
+        },
+        "Owner": "Niklas Menke <niklas.menke@gmx.de>",
+        "Size": {
+            "X": 31,
+            "Y": 31.124997
+        }
+    }
+}

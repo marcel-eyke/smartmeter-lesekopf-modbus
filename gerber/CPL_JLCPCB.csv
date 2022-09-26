@@ -1,0 +1,19 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+CA1,-0.75,26.75,Bottom,90.0
+CA2, 5.25,26.75,Bottom,90.0
+CA3,12.25,20.75,Bottom,90.0
+CA4,-6.75,15.50,Bottom,90.0
+FA1,-2.89,27.21,Bottom,270.0
+QA1,-6.00,27.00,Bottom,180.0
+QA2,-4.25,19.75,Bottom,270.0
+RA1,-0.25,29.50,Bottom,0.0
+RA2, 8.00,26.00,Bottom,0.0
+RA3, 2.75,19.00,Bottom,0.0
+RA4,-0.50,19.00,Bottom,90.0
+RA5, 7.75,13.00,Bottom,0.0
+RA6,-6.75,20.25,Bottom,90.0
+RA7,-8.00,19.00,Bottom,90.0
+RA8,-1.75,19.00,Bottom,90.0
+RB1, 3.75,21.50,Bottom,0.0
+TA1, 2.25,27.00,Bottom,0.0
+TF1, 8.25,17.50,Bottom,0.0
